@@ -1,8 +1,8 @@
-<script setup>
-</script>
+<script setup></script>
 
 <template>
-  <h1>Template Vue 3.4</h1>
+  <p>Navbar</p>
+  <router-view></router-view>
 </template>
 
 <style scoped>
